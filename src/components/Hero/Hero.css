@@ -64,7 +64,7 @@
 }
 
 /* right side  */
-.imgage-container{
+.image-container{
     width: 30rem;
     height: 35rem;
     overflow: hidden;
@@ -72,7 +72,7 @@
     border: 8px solid rgba(255, 355, 255, 0.12);
 }
 
-.imgage-container>img{
+.image-container>img{
     width: 100%;
     height: 100%;
 }
